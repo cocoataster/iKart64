@@ -1,0 +1,16 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Player",
+        "repositoryURL": "https://github.com/esansalv/Player.git",
+        "state": {
+          "branch": null,
+          "revision": "f21611cbcea3954d9f723928d2ee29e6219e65ea",
+          "version": "0.3.2"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
