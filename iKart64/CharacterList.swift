@@ -45,7 +45,7 @@ struct CharacterList: View {
     }
     
     private func loadData() {
-        guard let url = URL(string: "http://localhost:8080/players") else {
+        guard let url = URL(string: "https://ikart64.herokuapp.com/players") else {
             return
         }
         
