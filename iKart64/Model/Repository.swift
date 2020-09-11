@@ -14,6 +14,7 @@ struct Repository {
         Player(
             id: 0,
             name: "mario",
+            team: .mario,
             kart:
                 Kart(
                 color: .red,
@@ -31,6 +32,7 @@ struct Repository {
         Player(
             id: 1,
             name: "luigi",
+            team: .mario,
             kart: Kart(
                 color: .green,
                 topSpeed: 68,
@@ -49,6 +51,7 @@ struct Repository {
         Player(
             id: 2,
             name: "peach",
+            team: .mario,
             kart: Kart(
                 color: .pink,
                 topSpeed: 68,
@@ -67,6 +70,7 @@ struct Repository {
         Player(
             id: 3,
             name: "toad",
+            team: .mario,
             kart: Kart(
                 color: .blue,
                 topSpeed: 66,
@@ -87,6 +91,7 @@ struct Repository {
         Player(
             id: 4,
             name: "yoshi",
+            team: .mario,
             kart: Kart(
                 color: .green,
                 topSpeed: 66,
@@ -103,6 +108,7 @@ struct Repository {
         Player(
             id: 5,
             name: "dk",
+            team: .mario,
             kart: Kart(
                 color: .yellow,
                 topSpeed: 70,
@@ -119,6 +125,7 @@ struct Repository {
         Player(
             id: 6,
             name: "wario",
+            team: .bowser,
             kart: Kart(
                 color: .purple,
                 topSpeed: 70,
@@ -137,6 +144,7 @@ struct Repository {
         Player(
             id: 7,
             name: "bowser",
+            team: .bowser,
             kart: Kart(
                 color: .red,
                 topSpeed: 70,
