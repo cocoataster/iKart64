@@ -406,7 +406,7 @@
 /* Begin XCRemoteSwiftPackageReference section */
 		A8E58F6F24A8E047001819AC /* XCRemoteSwiftPackageReference "Player" */ = {
 			isa = XCRemoteSwiftPackageReference;
-			repositoryURL = "https://github.com/esansalv/Player.git";
+			repositoryURL = "https://github.com/cocoataster/Player.git";
 			requirement = {
 				kind = upToNextMajorVersion;
 				minimumVersion = 0.2.0;
